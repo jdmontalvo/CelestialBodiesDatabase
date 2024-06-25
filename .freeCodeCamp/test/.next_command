@@ -83,3 +83,7 @@ git remote -v
 git push -u origin main
 git push -u origin master
 git add .
+git commit -m "Agregar todos los cambios incluyendo universe.sql"
+git add universe.sql
+git commit -m "Agregar todos los cambios incluyendo universe.sql"
+git add .
